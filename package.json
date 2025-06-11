@@ -1,5 +1,5 @@
 {
-  "name": "statictics-packcage",
+  "name": "@mau1401/statictics-packcage",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
