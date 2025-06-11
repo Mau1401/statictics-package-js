@@ -1,5 +1,5 @@
 {
-  "name": "@mau1401/statictics-packcage",
+  "name": "@mau1401/statistics-package",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mau1401/statictics-packcage-js.git"
+    "url": "https://github.com/Mau1401/statistics-package-js.git"
   },
   "keywords": [],
   "author": "Mauricio Rodriguez",
@@ -16,9 +16,9 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
-    "url": "https://https://github.com/Mau1401/statictics-packcage-js/issues"
+    "url": "https://https://github.com/Mau1401/statistics-package-js/issues"
   },
-  "homepage": "https://github.com/Mau1401/statictics-packcage-js#readme",
+  "homepage": "https://github.com/Mau1401/statistics-package-js#readme",
   "description": "Statictics functions and graphics generation for with Node.js",
   "dependencies": {
     "canvas": "^3.1.0",
